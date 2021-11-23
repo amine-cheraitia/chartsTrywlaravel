@@ -25,6 +25,7 @@
 
     <br>
     <div class="card-body"><canvas id="myBarChart" width="100%" height="40"></canvas></div>
+    <div class="card-body"><canvas id="myBarChart2" width="100%" height="40"></canvas></div>
     <script>
         /*         const chart = new Chartisan({
         el: '#chart',
